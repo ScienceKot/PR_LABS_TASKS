@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<data>
+    <player>
+        <nickname>Alpha</nickname>
+        <email>alpha@gmail.com</email>
+        <date_of_birth>2000-04-04</date_of_birth>
+        <xp>455</xp>
+        <class>Berserk</class>
+    </player>
+    <player>
+        <nickname>Beta</nickname>
+        <email>beta@gmail.com</email>
+        <date_of_birth>2001-06-10</date_of_birth>
+        <xp>657</xp>
+        <class>Tank</class>
+    </player>
+</data>

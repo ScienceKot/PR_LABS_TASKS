@@ -1,0 +1,22 @@
+
+
+package protblog;
+
+enum Class {
+  Berserk = 0;
+  Tank = 1;
+  Paladin = 3;
+  Mage = 4;
+}
+
+message PlayersList {
+  message Player {
+    required string nickname = 1;
+    required string email = 2;
+    required string date_of_birth = 3;
+    required int32 xp = 4;
+    required Class cls = 5;
+  }
+
+  repeated Player player = 1;
+}
