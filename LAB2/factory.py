@@ -1,7 +1,4 @@
-from datetime import datetime
 from player import Player
-import xml.etree.ElementTree as ET
-import player_pb2 as proto_player
 
 
 class PlayerFactory:
