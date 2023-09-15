@@ -66,3 +66,4 @@ For the homework you will have to implement two methods (from_protobuf and to_pr
 To test your new functions use the homework_test_py file.
 
 HINT: https://www.freecodecamp.org/news/googles-protocol-buffers-in-python/
+HINT: You will be punished for using ChatGPT.
